@@ -1,0 +1,3 @@
+automatic GitHub pushes using VS Code ==>
+1: >> git config --global alias.pushall '!git add -A && git commit -m "Auto-commit" && git push'
+2: >> git pushall
